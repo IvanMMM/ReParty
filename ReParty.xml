@@ -1,0 +1,9 @@
+<GuiXml>
+    <Controls>
+        <TopLevelControl name="RP_Top">
+            <OnUpdate>
+            	RP.Update(self)
+            </OnUpdate>
+        </TopLevelControl>
+	</Controls>
+</GuiXml>
